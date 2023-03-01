@@ -1,5 +1,5 @@
 Hi!
-I'm not a programmer yet, just learning.
+I'm a web developer
 Have a good day! :)
 
 <!---
